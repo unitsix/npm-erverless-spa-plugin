@@ -1,0 +1,9 @@
+version: '0.1'
+
+services:
+
+  node:
+    image: node:latest
+    volumes:
+      - .:/opt/app
+    working_dir: /opt/app

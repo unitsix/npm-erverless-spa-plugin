@@ -1,0 +1,37 @@
+{
+  "name": "@unitsix/serverless-spa-plugin",
+  "version": "0.0.1",
+  "description": "A plugin for Serverless Framework, to deploy Single Page Applications using S3 and CloudFront.",
+  "engines": {
+    "node": ">=4.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint": "./node_modules/eslint/bin/eslint.js --ext .jsx,.js ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unitsix/serverless-spa-plugin.git"
+  },
+  "keywords": [
+    "spa",
+    "single page application",
+    "serverless"
+  ],
+  "devDependencies": {
+    "@unitsix/eslint-config-essix": "latest",
+    "babel-eslint": "^8.0.0",
+    "eslint": "^4.12.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "author": "Ryan Stockdale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unitsix/serverless-spa-plugin/issues"
+  },
+  "homepage": "https://github.com/unitsix/serverless-spa-plugin#readme"
+}

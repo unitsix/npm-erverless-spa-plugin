@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "@unitsix/eslint-config-essix"
+  ],
+  "env": {
+    "node": true
+  }
+}
