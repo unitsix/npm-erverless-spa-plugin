@@ -10,8 +10,6 @@ Based on the [official example](https://github.com/serverless/examples/tree/mast
 * Auto-generated bucket name, to allow multiple independent deployments without name-clashes
 * Packaged as its own repo, so that it can be re-used and independently versioned
 
-=========
-
 ## Installation
 
 Install the package via NPM:
