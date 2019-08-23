@@ -1,5 +1,5 @@
 
-[![npm version](https://badge.fury.io/js/%40unitsix%2Fnpm-serverless-spa-plugin.svg)](https://badge.fury.io/js/%40unitsix%2Fnpm-serverless-spa-plugin) [![Build Status](https://travis-ci.org/unitsix/npm-serverless-spa-plugin.svg?branch=master)](https://travis-ci.org/unitsix/npm-serverless-spa-plugin)
+[![npm version](https://badge.fury.io/js/%40unitsix%2Fnserverless-spa-plugin.svg)](https://badge.fury.io/js/%40unitsix%2Fserverless-spa-plugin) [![Build Status](https://travis-ci.org/unitsix/npm-serverless-spa-plugin.svg?branch=master)](https://travis-ci.org/unitsix/npm-serverless-spa-plugin)
 
 # serverless-spa-plugin
 
